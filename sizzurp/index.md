@@ -19,6 +19,8 @@ The goal is discovery.
 
 ### External Links
 - [Crunchbase](https://www.crunchbase.com/person/izzurp-solo-artist-rapper)
+-
+[Musicbrainz](https://musicbrainz.org/artist/419d284f-5e20-4e10-bdc7-20b57f972c61)
 - [YouTube](https://youtube.com/channel/UCKILygc7A77BFJ1fxQ2UvQA)
 - [BandLab](https://www.bandlab.com/sizztherapper)
 
@@ -65,9 +67,9 @@ Because of that, themes of digital memory, forgotten media, lost context, emotio
 - Emotion and atmosphere matter as much as technicality
 
 ### Associated Projects
-- Bittersweet Butterflies
-- Bobbleheadless
-- Accismus
+- [Bittersweet Butterflies](https://itzsizzurp.bandcamp.com/album/bittersweet-butterflies)
+- (Bobbleheadless](https://itzsizzurp.bandcamp.com/album/bobbleheadless)
+- [Accismus](https://itzsizzurp.bandcamp.com/album/accismus)
 
 ---
 
