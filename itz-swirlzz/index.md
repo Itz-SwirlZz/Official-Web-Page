@@ -1,47 +1,88 @@
-# [BRANCH NAME]
+# Itz SwirlZz
 
-A creative identity branch within the Marcus Wonyâ Sullivan ecosystem.
+A digital identity branch within the Marcus Wonyâ Sullivan ecosystem.
 
 ---
 
 ## Overview (External Layer)
 
-This branch represents:
+Itz SwirlZz is my online identity.  
+It functions as the primary name I use across internet platforms, gaming spaces, and community interactions.
 
-- What it is publicly
-- Where it exists online
-- How it appears across platforms
+It acts as a recognizable “government name equivalent” for my digital presence, designed for consistency across platforms like Discord, Instagram, Twitter, Facebook, and others.
+
+This branch represents how I exist online when I’m not operating inside music projects.
 
 ### External Links
-- [Platform / Profile]
-- [Platform / Profile]
-- [Platform / Profile]
+- Discord (username identity)
+- Instagram
+- Facebook
+- Twitter / X
+- Gaming profiles (Destiny, Warframe, For Honor, Roblox)
 
 ---
 
 ## Internal Meaning (Personal Layer)
 
-This branch exists because:
+Itz SwirlZz exists as my internet-facing self-concept.
 
-- Why you created it
-- What role it plays in your creative system
-- How it connects to your identity
+It is not tied to one consistent role or style. It shifts depending on context, platform, and mood.
+
+At different points it has leaned heavily into:
+- Destiny raid culture and group hosting
+- Warframe and RPG-style gameplay communities
+- Roblox social and experimental content
+- For Honor gameplay focus and current primary gaming space
+
+A major shift in this identity came after stepping back from Destiny raid hosting, which changed how I interact with larger group-based gaming communities.
+
+The core idea behind this identity is simple. It represents me as I naturally behave online without needing to separate it into rigid categories.
+
+---
+
+## Behavioral Style
+
+The identity is primarily:
+
+- Chaotic in interaction style
+- Humorous and reactive
+- Experimental in communication and gameplay approach
+- Socially flexible depending on group dynamics
+
+There is no fixed balance between game types or content styles. It shifts based on what I’m currently engaged with.
+
+Older focus distribution leaned toward Destiny, Warframe, and Roblox.
+
+Current focus is more centered around For Honor, with occasional return to Roblox and minimal Destiny involvement.
+
+---
+
+## Interaction Philosophy
+
+My approach to online interaction is based on situational respect.
+
+I generally maintain a polite and respectful baseline, but my tone adjusts depending on familiarity and context.
+
+With unfamiliar players or LFG groups, communication becomes more transactional and direct, especially in structured gameplay environments like raids or group missions.
 
 ---
 
 ## Creative Focus
 
-- Core style / medium
-- Common themes
-- Artistic direction
+- Gaming identity expression
+- Live interaction behavior
+- Community engagement patterns
+- Experimental online presence
+- Multi-platform consistency identity
 
 ---
 
 ## Notes
 
-- Additional context that doesn’t fit elsewhere
-- Optional development history
-- Experimental ideas or direction shifts
+- This identity is consistent across platforms under variations of “Itz SwirlZz”
+- It is intentionally used as a recognizable digital anchor name
+- The identity is stable despite shifts in gaming focus
+- Some name overlap exists online, but the identity is still clearly anchored through usage history
 
 ---
 
@@ -49,3 +90,7 @@ This branch exists because:
 
 Return to:
 - [Main Hub](../index.md)
+- [$IZZURP Branch](../IZZURP/index.md)
+- Peace Martini Branch
+- Genre Juice Records / Podcast Branch
+- Art Branch
