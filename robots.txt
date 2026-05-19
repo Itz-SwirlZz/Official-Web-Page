@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://itz-swirlzz.github.io/Official-Web-Page/sitemap.xml
