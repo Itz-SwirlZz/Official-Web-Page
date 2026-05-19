@@ -14,13 +14,17 @@ This branch is not focused on finished art. It is focused on *idea visualization
 
 It connects heavily to gaming inspiration, especially Destiny-era concepts, UI-style thinking, and experimental worldbuilding.
 
-### External Links
-- Pinterest (concept archives and visual storage)
-- Destiny 1 / Destiny 2 Forums (concept discussions and idea sharing)
-- Warframe Forums
-- Apex Legends concept ideas
-- Overwatch concept ideas
-- SOHA (Season Of Hidden Agenda concept system)
+## External Links
+
+- [Pinterest (concept archives and visual storage)](https://www.pinterest.com/marcuswonya/)
+
+- [Destiny 2 Forums (concept discussions and idea sharing)](https://www.bungie.net/7/en/User/Profile/1/4611686018432940715?bgn=Kingsfall%20Tutor%20(Harrowed))
+
+- [Warframe Forums](https://forums.warframe.com/profile/4415438-xb1itz-swirlzz/)
+
+- [Balance of Steel DLC Concept](https://www.reddit.com/r/forhonor/s/CgOv7u8B21)
+
+- [SOHA (Season Of Hidden Agenda concept system)](https://itz-swirlzz.github.io/season-of-hidden-agenda)
 
 ---
 
