@@ -13,12 +13,13 @@ It acts as a recognizable “government name equivalent” for my digital presen
 
 This branch represents how I exist online when I’m not operating inside music projects.
 
-### External Links
-- Discord (username identity)
-- Instagram
-- Facebook
-- Twitter / X
-- Gaming profiles (Destiny, Warframe, For Honor, Roblox)
+## External Links
+
+- [Discord](https://discord.com/users/itz_swirlzz)
+- [Instagram](https://www.instagram.com/itz_swirlzz?igsh=OHptZDB1ejB6eDZm)
+- [Facebook](https://www.facebook.com/itz.swirlzz?mibextid=ZbWKwL)
+- [X (Twitter)](https://x.com/determinator501)
+- [Xbox Profile](https://www.xbox.com/en-us/play/user/itz%20SwirlZz)
 
 ---
 
