@@ -10,7 +10,7 @@ Itz SwirlZz Art is the visual concept archive of my creative system.
 
 It represents drawings, design ideas, and conceptual work that started in school and evolved into a long-term habit of translating ideas into visual form instead of only describing them.
 
-This branch is not focused on finished art. It is focused on *idea visualization*.
+This branch is focused on *idea visualization*.
 
 It connects heavily to gaming inspiration, especially Destiny-era concepts, UI-style thinking, and experimental worldbuilding.
 
@@ -37,16 +37,17 @@ It began as a coping and expression tool. I have ADD, and I needed something to 
 At first, it wasn’t “art for art’s sake.” It was concept translation.
 
 Most early work was Destiny 1 inspired:
+
 - Exotic weapon concepts
 - Armor ideas
 - Ability variations
 - System mechanics
 
-One of the earliest ideas I remember was a rocket concept called *Mauler*, which launched a targeting beacon that triggered a volley strike. Another was a dual-fire tracking rocket idea that later reminded me of weapons like Two-Tailed Fox in Destiny 2. These coincidences reinforced my habit of designing systems that already felt like they existed somewhere in the future.
+One of the earliest ideas I remember was a rocket concept called *[M.A.U.L.E.R](https://itz-swirlzz.github.io/season-of-hidden-agenda/Open-World-Exotic-Weapons)*, which launched a targeting beacon that triggered a volley strike. Another was a dual-fire tracking [rocket](https://pin.it/w2rsaparf) idea that later reminded me of weapons like Two-Tailed Fox in Destiny 2. These coincidences reinforced my habit of designing systems that already felt like they existed somewhere in the future.
 
-A recurring early concept was *PISTIL’s Gambit*, a void machine gun with a floral design language. That idea later tied into early SOHA concept development.
+A recurring early concept was *[Pistil’s Gambit](https://itz-swirlzz.github.io/season-of-hidden-agenda/VG-Exotics)*, a void machine gun with a floral design language. That idea later tied into early SOHA concept development.
 
-The goal was never to be a traditional artist. The goal was to make ideas visible.
+The goal was to make ideas visible.
 
 ---
 
@@ -54,7 +55,8 @@ The goal was never to be a traditional artist. The goal was to make ideas visibl
 
 Two key influences shaped this branch early on:
 
-- A high school art teacher (Mr. Curtis / J. Kirgis), who encouraged experimentation and showed that ideas could be translated visually without needing perfection.
+- A high school art [teacher](https://www.facebook.com/share/18b1ijpcHL/) (Mr. Kirgis / Jay Kirgis), who encouraged experimentation and showed that ideas could be translated visually without needing perfection.
+
 - A creative figure who said: *“If you can think it, you can ink it.”*
 
 These ideas reinforced the belief that concepts do not need to stay abstract.
@@ -63,13 +65,18 @@ These ideas reinforced the belief that concepts do not need to stay abstract.
 
 ## Signature Style
 
-My visual style is defined more by *process* than polish.
+My visual style is defined more by *process*.
 
 Key traits:
+
 - Heavy use of outlines and sketch-based structure
+
 - Limited focus on color or shading
+
 - Strong emphasis on concept clarity over aesthetic completion
+
 - Visual ideas often function like design blueprints
+
 - Handwriting and sketch style create a recognizable identity unintentionally
 
 Even when unfinished, the work is usually identifiable as mine due to its structure and presentation style.
@@ -89,10 +96,14 @@ Even when unfinished, the work is usually identifiable as mine due to its struct
 
 ## Notes
 
-- This branch is not strictly “art portfolio,” it is a concept engine
+- This branch is a concept engine
+
 - Many ideas remain unfinished or intentionally unpolished
+
 - Some concepts later influence music projects and narrative systems
+
 - SOHA is one of the most structured evolutions of early concept work
+
 - Early Destiny concepts acted as the foundation for later creative branching
 
 ---
