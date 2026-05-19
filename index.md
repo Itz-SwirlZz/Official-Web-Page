@@ -18,7 +18,7 @@ Each branch represents a different creative space, medium, or perspective.
 
 The foundational identity branch. Personal philosophy, writing, long-form thought, and core ideas.
 
-[Enter Archive](./marcus-wonya-sullivan/index.md)
+[Enter Archive](./mws/index.md)
 
 ---
 
