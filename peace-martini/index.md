@@ -24,14 +24,14 @@ Peace Martini exists as a space for unorthodox expression, often carrying a raw 
 
 Peace Martini exists as the earliest structured outlet for unfiltered musical expression outside of rap.
 
-It began as SUNNDANE, but the name evolved due to personal dissatisfaction with how it was perceived. The goal was never to sound "normal" or "safe," but instead to embrace **unorthodoxy as identity**.
+It began as SUNNDANE, but the name evolved due to personal dissatisfaction with how it was perceived. The goal was never intending to sound "normal" or "safe," but embrace **unorthodoxy as identity**.
 
 The name *Peace Martini* reflects that philosophy:
 a contrast of calm (“Peace”) and complexity or refinement (“Martini”), representing emotional contradiction within the music itself.
 
 A personal challenge tied to the project was the idea that finishing or releasing an album would mark a milestone moment in life. That idea became symbolic over time and helped shape the emotional weight behind the project.
 
-Peace Martini is not just a music project—it is a documentation of growth through sound, emotion, and experimentation.
+Peace Martini is a music project & it's a documentation of growth through sound, emotion, and experimentation.
 
 ---
 
