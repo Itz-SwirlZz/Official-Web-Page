@@ -21,11 +21,12 @@ The goal is discovery.
 - [Crunchbase](https://www.crunchbase.com/person/izzurp-solo-artist-rapper)
 - [YouTube](https://youtube.com/channel/UCKILygc7A77BFJ1fxQ2UvQA)
 - [BandLab](https://www.bandlab.com/sizztherapper)
--[Genius](https://genius.com/artists/Izzurp-underground)
-
--[General Info](https://medium.com/@determinator500gaming/general-information-on-artist-izzurp-informational-purposes-5eb024902465)
-
--[Accismus Appendix](https://medium.com/@determinator500gaming/accismus-appendix-interview-f1c6c0838cea)
+-
+[Genius](https://genius.com/artists/Izzurp-underground)
+-
+[General Info](https://medium.com/@determinator500gaming/general-information-on-artist-izzurp-informational-purposes-5eb024902465)
+-
+[Accismus Appendix](https://medium.com/@determinator500gaming/accismus-appendix-interview-f1c6c0838cea)
 
 ---
 
