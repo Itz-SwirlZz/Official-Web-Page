@@ -112,7 +112,3 @@ Even when unfinished, the work is usually identifiable as mine due to its struct
 
 Return to:
 - [Main Hub](../index.md)
-- [Itz SwirlZz](../ItzSwirlZz/index.md)
-- [$IZZURP Branch](../IZZURP/index.md)
-- Peace Martini Branch
-- Genre Juice Records / Podcast Branch
