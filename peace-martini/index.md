@@ -14,9 +14,9 @@ Peace Martini exists as a space for unorthodox expression, often carrying a raw 
 
 ### External Links
 - [Linktree / Official Hub](https://linktr.ee/itzswirlzzworld)
-- [Crunchbase Entry](https://www.crunchbase.com)
-- [YouTube Channel](https://youtube.com)
-- [Instagram](https://instagram.com)
+- [Crunchbase Entry](https://www.crunchbase.com/person/peace-martini)
+- [YouTube Channel](https://youtube.com/@peacemartini9709)
+- [Instagram](https://www.instagram.com/peace_martini_music?igsh=aXBiZmlyaHp4bW1t)
 
 ---
 
