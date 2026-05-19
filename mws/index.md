@@ -57,4 +57,4 @@ It is the source layer everything else extends from.
 ## Navigation
 
 Return to:
-- [Main Hub](`../index.md`)
+- [Main Hub](../index.md)
