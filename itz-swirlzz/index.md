@@ -91,7 +91,3 @@ With unfamiliar players or LFG groups, communication becomes more transactional 
 
 Return to:
 - [Main Hub](../index.md)
-- [$IZZURP Branch](../IZZURP/index.md)
-- Peace Martini Branch
-- Genre Juice Records / Podcast Branch
-- Art Branch
