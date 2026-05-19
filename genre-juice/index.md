@@ -100,7 +100,4 @@ Genre Juice Podcast:
 
 Return to:
 - [Main Hub](../index.md)
-- Peace Martini Branch
-- $IZZURP Branch
-- Itz SwirlZz Art Branch
-- Itz SwirlZz Gaming Branch
+
