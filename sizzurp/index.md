@@ -1,4 +1,4 @@
-# [BRANCH NAME]
+# [$IZZURP (@SIZZtheRapper)]
 
 A creative identity branch within the Marcus Wonyâ Sullivan ecosystem.
 
@@ -6,26 +6,26 @@ A creative identity branch within the Marcus Wonyâ Sullivan ecosystem.
 
 ## Overview (External Layer)
 
-This branch represents:
+<i>"I don’t try to prove I'm the best rapper in the room. I try to be the right rapper for that moment."
+                            -$IZZURP</i> 
 
-- What it is publicly
-- Where it exists online
-- How it appears across platforms
+
+This branch represents Genre Juice Records, & the experimental rap side of my creative works.
 
 ### External Links
-- [Platform / Profile]
-- [Platform / Profile]
-- [Platform / Profile]
+- [Platform / Profile](crunchbase link)
+- [Platform / Profile](Youtube link)
+- [Platform / Profile](Bandlab link)
 
 ---
 
 ## Internal Meaning (Personal Layer)
 
-This branch exists because:
+$IZZURP exists as the most direct and emotionally exposed branch of my creative system.
 
-- Why you created it
-- What role it plays in your creative system
-- How it connects to your identity
+The identity started as performance-driven rap experimentation, but gradually evolved into a balance between layered lyricism, emotional commentary, humor, philosophy, and controlled chaos.
+
+A recurring goal within the project is replay value.
 
 ---
 
