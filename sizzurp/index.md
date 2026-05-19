@@ -68,7 +68,7 @@ Because of that, themes of digital memory, forgotten media, lost context, emotio
 
 ### Associated Projects
 - [Bittersweet Butterflies](https://itzsizzurp.bandcamp.com/album/bittersweet-butterflies)
-- (Bobbleheadless](https://itzsizzurp.bandcamp.com/album/bobbleheadless)
+- [Bobbleheadless](https://itzsizzurp.bandcamp.com/album/bobbleheadless)
 - [Accismus](https://itzsizzurp.bandcamp.com/album/accismus)
 
 ---
