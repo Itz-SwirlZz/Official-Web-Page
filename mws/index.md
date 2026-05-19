@@ -13,11 +13,13 @@ It exists as the central reference point for:
 - Philosophical grounding
 - Creative direction across all projects
 
-### External Links
-- Evolving Testament (Amazon)
-- Carrd (Official Hub)
-- Linktree (Official Hub)
+## External Links
 
+- [Evolving Testament (Amazon)](https://www.amazon.com/dp/B0FCW7CS3X/ref=mp_s_a_1_1?crid=GPEI3MQX12RS&dib=eyJ2IjoiMSJ9.uC-7RIw-ZoNAvBNGoXzUJnyeSUEXJYdlEzXafP4H8cYLv7Ub8smEMQ95NOnvaG_0GDoNY-XehnuOdue1PfqLrDm9JSfu6l8nX3Ws9itlpXw.usxdK6H8f16OQWdlnoVhl6_oD8lU2nMAT894DX6cS-k&dib_tag=se&keywords=Evolving+Testament&qid=1749698792&s=books&sprefix=evolving+testament%2Caps%2C123&sr=1-1&ascsubtag=srctok-c65afe299766b8c7&btn_ref=srctok-c65afe299766b8c7&ref_=btn_assoc_p-other_o-2_srctok-c65afe299766b8c7_ht-t)
+
+- [Carrd (Official Hub)](https://marcusw.carrd.co/)
+
+- [Linktree (Official Hub)](https://linktr.ee/itzswirlzzworld)
 ---
 
 ## Internal Meaning (Personal Layer)
