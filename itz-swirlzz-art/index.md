@@ -22,9 +22,9 @@ It connects heavily to gaming inspiration, especially Destiny-era concepts, UI-s
 
 - [Warframe Forums](https://forums.warframe.com/profile/4415438-xb1itz-swirlzz/)
 
-- [Balance of Steel DLC Concept](https://www.reddit.com/r/forhonor/s/CgOv7u8B21)
+- [Balance of Steel DLC Concept (For Honor)](https://www.reddit.com/r/forhonor/s/CgOv7u8B21)
 
-- [SOHA (Season Of Hidden Agenda concept system)](https://itz-swirlzz.github.io/season-of-hidden-agenda)
+- [SOHA (Season Of Hidden Agenda concept Destiny 2/3)](https://itz-swirlzz.github.io/season-of-hidden-agenda)
 
 ---
 
