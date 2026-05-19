@@ -4,7 +4,7 @@ A media collective within the Marcus Wonyâ Sullivan ecosystem.
 
 ---
 
-## Genre Juice Records
+## [Genre Juice Records](https://www.crunchbase.com/organization/genre-juice-records)
 
 Genre Juice Records is an independent label and creative collective built to support and organize genre-bending creative work.
 
@@ -23,7 +23,7 @@ It operates as:
 
 ---
 
-## Genre Juice Podcast
+## [Genre Juice Podcast](https://youtube.com/@genrejuicepod)
 
 Genre Juice Podcast is a long-form audio and ASMR-influenced content space.
 
