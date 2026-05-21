@@ -19,17 +19,13 @@ The goal is discovery.
 
 ### External Links
 - [Crunchbase](https://www.crunchbase.com/person/izzurp-solo-artist-rapper)
--
-[Musicbrainz](https://musicbrainz.org/artist/419d284f-5e20-4e10-bdc7-20b57f972c61)
+- [Musicbrainz](https://musicbrainz.org/artist/419d284f-5e20-4e10-bdc7-20b57f972c61)
 - [YouTube](https://youtube.com/channel/UCKILygc7A77BFJ1fxQ2UvQA)
 - [BandLab](https://www.bandlab.com/sizztherapper)
-
--[Genius](https://genius.com/artists/Izzurp-underground)
-
--[General Info](https://medium.com/@determinator500gaming/general-information-on-artist-izzurp-informational-purposes-5eb024902465)
-
--[Accismus Appendix](https://medium.com/@determinator500gaming/accismus-appendix-interview-f1c6c0838cea)
-
+- [Genius](https://genius.com/artists/Izzurp-underground)
+- [General Info](https://medium.com/@determinator500gaming/general-information-on-artist-izzurp-informational-purposes-5eb024902465)
+- [Accismus Appendix](https://medium.com/@determinator500gaming/accismus-appendix-interview-f1c6c0838cea)
+- [Internet Archive](https://archive.org/details/Itz_sizzurp/%24IZZURP%20Logo.jpg)
 ---
 
 ## Internal Meaning (Personal Layer)
