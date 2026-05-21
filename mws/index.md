@@ -21,7 +21,7 @@ It exists as the central reference point for:
 
 - [Linktree (Official Hub)](https://linktr.ee/itzswirlzzworld)
 
-- [Unmasked Interview](com/@determinator500gaming/marcus-wony%C3%A2-sullivan-may-wear-many-faces-from-the-ambient-project-peace-martini-to-the-8a85d37d30c4)
+- [Unmasked Interview](medium.com/@determinator500gaming/marcus-wony%C3%A2-sullivan-may-wear-many-faces-from-the-ambient-project-peace-martini-to-the-8a85d37d30c4)
 
 - [Imdb](https://www.imdb.com/name/nm18517265/?ref_=nmmi_ov_bk)
 ---
