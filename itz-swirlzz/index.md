@@ -15,6 +15,7 @@ This branch represents how I exist online when I’m not operating inside music 
 
 ## External Links
 
+- [Youtube](https://www.youtube.com/@itzswirlzz)
 - [Discord](https://discord.com/users/itz_swirlzz)
 - [Instagram](https://www.instagram.com/itz_swirlzz?igsh=OHptZDB1ejB6eDZm)
 - [Facebook](https://www.facebook.com/itz.swirlzz?mibextid=ZbWKwL)
