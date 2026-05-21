@@ -83,6 +83,51 @@ The discography is better understood as multiple intersecting timelines rather t
 
 ---
 
+### Unique Traits of $IZZURP
+
+## Alter Ego Performance System
+
+A recurring creative system used within the $IZZURP branch.
+
+The alter egos primarily exist as vocal and performance tools. Each identity carries its own delivery style, flow structure, energy, cadence, personality, and writing approach while still being voiced by Marcus Wonyâ Sullivan.
+
+The system originated from theater, voice experimentation, character work, and performance expression during high school. Over time, the alter egos evolved into a way to approach songs from multiple emotional or stylistic angles without relying heavily on outside features.
+
+Each persona serves a different role within the music:
+
+- $IZZURP → smooth flows, wordplay, personality-driven writing
+
+- Vriss Tha N3rd → philosophy, larger vocabulary, jittery storytelling
+
+- GRIMM REEPR → aggression, slower delivery, violent imagery
+
+- CoZmic → grandiose tone, mood-setting, unorthodox flow structures
+
+The goal is to expand creative flexibility and make tracks feel more dynamic through shifts in voice, perspective, and energy.
+
+---
+
+## Conceptual Slick Talk
+
+A lyrical approach used within the $IZZURP branch.
+
+Conceptual Slick Talk centers around emotionally rich or stylistically “slick” language without tying itself to materialism. The writing focuses more on atmosphere, personality, symbolism, emotional weight, coined phrases, and internal terminology than traditional status symbols.
+
+The idea originated from Marcus Wonyâ Sullivan’s habit of inventing words and phrases to describe emotions, moods, identities, or feelings that felt too specific for normal language.
+
+A lot of the phrasing within this style is intentionally semi-abstract. Some lines are meant to be felt before they are fully understood. The wording usually prioritizes cadence, texture, replay value, emotional tone, and personality.
+
+This approach can include:
+- coined terminology
+- symbolic phrases
+- emotionally charged imagery
+- abstract slick talk
+- personality-based flexing
+- custom language systems
+
+The goal is to create a feeling of emotional or conceptual “richness” through language itself.
+---
+
 ## Navigation
 
 Return to:
