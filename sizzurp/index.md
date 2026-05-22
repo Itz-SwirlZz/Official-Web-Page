@@ -105,21 +105,17 @@ The goal is to expand creative flexibility and make tracks feel more dynamic thr
 
 ## Conceptual Slick Talk
 
-A lyrical approach used within the $IZZURP branch.
+Conceptual Slick Talk is a formalized lyrical and stylistic framework utilized within the SIZZURP branch of contemporary creative writing and audio production.Deviating from traditional genre tropes that rely heavily on materialism and conventional status symbols, this approach prioritizes atmospheric depth, structural personality, symbolism, and distinct internal terminology. 
 
-Conceptual Slick Talk centers around emotionally rich or stylistically “slick” language without tying itself to materialism. The writing focuses more on atmosphere, personality, symbolism, emotional weight, coined phrases, and internal terminology than traditional status symbols.
+The foundational objective is to engineer a sense of conceptual and emotional richness entirely through the architecture of the language itself.The methodology originated from Marcus Wonyâ Sullivan’s practice of developing neologisms and custom linguistic systems to articulate highly specific emotional states, identities, and nuances that fall outside standard vocabulary.
 
-The idea originated from Marcus Wonyâ Sullivan’s habit of inventing words and phrases to describe emotions, moods, identities, or feelings that felt too specific for normal language.
-
-A lot of the phrasing within this style is intentionally semi-abstract. Some lines are meant to be felt before they are fully understood. The wording usually prioritizes cadence, texture, replay value, emotional tone, and personality.
-
-This approach can include:
-- coined terminology
-- symbolic phrases
-- emotionally charged imagery
-- abstract slick talk
-- personality-based flexing
-- custom language systems
+Characterized by a semi-abstract delivery, the phrasing within this style intentionally emphasizes cadence, phonetic texture, replay value, and emotional resonance over literal interpretation. The framework is defined by several core elements:
+- Specialized coined terminology
+- Symbolic and non-linear phrasing
+- Emotionally charged, atmospheric imagery
+- Abstract verbal delivery
+- Personality-driven stylistic flexing
+- Proprietary, structured language systems
 
 The goal is to create a feeling of emotional or conceptual “richness” through language itself.
 ---
